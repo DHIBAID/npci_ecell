@@ -1,6 +1,8 @@
 
 # Unified Reward Systems
 
+## Chapters
+
 ## Introduction
 
 Reward systems are widely used by businesses to incentivize customer loyalty, but their fragmented nature limits their utility for customers. This document outlines a unified reward system (URS) that allows customers to merge and use reward points across multiple sellers. The system also provides incentives for sellers to participate, ensuring mutual benefits for all stakeholders. By centralizing and streamlining loyalty programs, this initiative promises to deliver enhanced convenience, profitability, and scalability.
