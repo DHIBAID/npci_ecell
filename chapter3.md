@@ -33,7 +33,7 @@ Reward points vary in value across businesses. A standard normalization algorith
 
 Let:
 
-<img src="image-removebg-preview.png" width="350px">
+<img src="ch3-variable.png" width="350px">
 
 Formula:
 
