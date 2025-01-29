@@ -1,7 +1,6 @@
-// server.js
 const app = require('./app');
 const mongoose = require('mongoose');
-const logger = require('./middlewares/logger');
+const logger = require('./middlewares/logger'); // Ensure this path is correct
 
 const PORT = process.env.PORT || 3000;
 const MONGODB_URI = process.env.MONGODB_URI;
